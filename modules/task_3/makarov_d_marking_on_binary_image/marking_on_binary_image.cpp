@@ -333,6 +333,6 @@ std::vector<int> markingMPI(const std::vector<int> &vecInput, int locrows,
     }
     ++iter;
   }
-
+  // asdf
   return vec2;
 }
